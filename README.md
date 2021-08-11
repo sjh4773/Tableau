@@ -9,5 +9,5 @@
 
 ## 내 Tableau 갤러리
 
-LINK : [Tableau Gallery][tableaulink]
-[tableaulink]:https://public.tableau.com/app/profile/.22377384
+
+Link : [Taebleau Gallery](https://public.tableau.com/app/profile/.22377384)
