@@ -10,4 +10,4 @@
 ## 내 Tableau 갤러리
 
 
-Link : [Taebleau Gallery](https://public.tableau.com/app/profile/.22377384)
+Link : [Tableau Gallery](https://public.tableau.com/app/profile/.22377384)
